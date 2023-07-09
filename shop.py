@@ -1,3 +1,6 @@
+# Task 3 Marks  6/12 .... The program executes, but it does not accomplish the intended tasks successfully.
+
+
 def shop():
     items = {
         'Item 1': 50,
