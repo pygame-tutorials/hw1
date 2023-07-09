@@ -1,3 +1,5 @@
+# Task 4. 7/14..
+# Tests file executed, but functions where not from shop.py file. 
 import unittest
 
 def select_item(items, item_name):
